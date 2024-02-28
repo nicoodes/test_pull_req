@@ -1,1 +1,2 @@
 Feature 1 firs change
+Changes on feat 1, this file also exists in feat 2 but wont be changed
